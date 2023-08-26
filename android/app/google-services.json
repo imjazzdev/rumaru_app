@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494106103931",
+    "project_id": "rumaru-app-9b8da",
+    "storage_bucket": "rumaru-app-9b8da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494106103931:android:5e383e173653e0355992de",
+        "android_client_info": {
+          "package_name": "com.example.rumaru_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494106103931-4ledt8kaos5bmls66vrjj6ptc1i1opvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw0xDED7nBXoknHTPnhwkCg9GAWtSxDbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494106103931-4ledt8kaos5bmls66vrjj6ptc1i1opvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
